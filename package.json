@@ -1,0 +1,16 @@
+{
+  "name": "browserstack-travis-integration-demo",
+  "version": "1.0.0",
+  "description": "A simple demo of how we would intergrate BrowserStack and TravisCI to perform unit tests",
+  "main": "even.js",
+  "scripts": {
+    "test": "browserstack-runner"
+  },
+  "keywords": [
+    "browserstack",
+    "travisci",
+    "qunit"
+  ],
+  "author": "Jonathan Fielding <j.fielding@me.com> (https://www.jonathanfielding.com)",
+  "license": "MIT"
+}
